@@ -1,0 +1,12 @@
+.headliner {
+	display: flex;
+	align-items: center;
+
+}
+.thumbnail-img {
+	border-radius: 12px;
+
+}
+.info {
+	margin-left: 24px;
+}
